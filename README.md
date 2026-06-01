@@ -4,11 +4,12 @@ REST API para gerenciamento de alunos, professores, disciplinas e matrículas.
 
 ## Tecnologias
 
-- Java 17 + Spring Boot 3
+- Java 21(Amazon Corretto)
 - Spring Security + JWT
 - Spring Data JPA + Flyway
 - MySQL/MariaDB
 - Maven
+- SpringDoc OpenAPI (Swagger UI)
 
 ## Como executar
 
