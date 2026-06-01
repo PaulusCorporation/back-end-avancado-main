@@ -12,7 +12,7 @@ REST API para gerenciamento de alunos, professores, disciplinas e matrículas.
 
 ## Como executar
 
-Certifique-se que o MariaDB está rodando na porta 3306, depois:
+Certifique-se de que o spring esteja rodando
 
 ```bash
 ./mvnw spring-boot:run
